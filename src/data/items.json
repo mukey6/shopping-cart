@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Coffee",
+      "price": 10.99,
+      "imgUrl": "/images/canned-coffee.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Cookie",
+        "price": 2.99,
+        "imgUrl": "/images/cookie-tin.jpg"
+      },
+    {
+        "id": 3,
+        "name": "Plastic Horses",
+        "price": 3.99,
+        "imgUrl": "/images/plastic-horses.jpg"
+      },
+    {
+        "id": 2,
+        "name": "Soap",
+        "price": 8.99,
+        "imgUrl": "/images/soap.jpg"
+      },
+    {
+        "id": 4,
+        "name": "Tablet",
+        "price": 159.99,
+        "imgUrl": "/images/tablet.jpg"
+      },
+    {
+        "id": 5,
+        "name": "Teddy Bear",
+        "price": 24.99,
+        "imgUrl": "/images/teddy-bear.jpg"
+      },
+    {
+        "id": 6,
+        "name": "Wooden Spoon",
+        "price": 18.99,
+        "imgUrl": "/images/wooden-spoons.jpg"
+      }
+]
